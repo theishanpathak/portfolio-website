@@ -73,7 +73,7 @@ function Projects({ projects }) {
             Check out my GitHub for more projects, experiments, and open-source contributions.
           </p>
           <motion.a
-            href="https://github.com/ishanpathak3?tab=repositories"
+            href="https://github.com/theishanpathak?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-primary inline-flex items-center gap-2"
